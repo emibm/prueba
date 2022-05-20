@@ -8,10 +8,12 @@ ACERCA DEL PROYECTO:
 El proyecto es un Comparador de Versiones que
 permite mediante una linea de codigo predeterminada por la profesora hacer diferentes funciones:
 
-1) Crear un archivo
+1) Crear un unico archivo (requerido)
 2) Crear subversiones infinitas del mismo
 3) Agregar lineas de texto a cada subversion
 4) Hacer comparaciones entre versiones
 5) Borrar versiones
 
-El proyecto fue realizado por partes, ya que tiene una primer entrega y una segunda con respecto transcurre el semestre, agregando nuevos tipos de estructuras y remodelando casi todo el proyecto
+El proyecto fue realizado por partes, ya que tiene una primer entrega y una segunda con respecto transcurre el semestre, agregando nuevos tipos de estructuras y remodelando casi todo el proyecto.
+
+NOTA: Ejecutar el programa y escribir "ayuda" sin comillas, para ver los comandos disponibles y como utilizar el programa. Esta pensado para ser lo mayor posible a prueba de bugs. Creo que habia solo un pequeñisimo detalle, casi invisible, fue lo unico que tuve que decir/arreglar en la defensa individual al proyecto, pero no recuerdo, solo recuerdo que fue cuestion de 2 minutos.
