@@ -1,11 +1,12 @@
 Prueba Obligatoria entrega final, materia Estructura de Datos y Algoritmos.
 Institución Tecnologo Informatico INNOVA.
+
 NOTA: APROBADO (95-100%)
 
 ACERCA DEL PROYECTO:
 
-El proyecto es un Comparador de Versiones
-Permite mediante una linea de codigo predeterminada por la profesora hacer diferentes funciones:
+El proyecto es un Comparador de Versiones que
+permite mediante una linea de codigo predeterminada por la profesora hacer diferentes funciones:
 
 1) Crear un archivo
 2) Crear subversiones infinitas del mismo
